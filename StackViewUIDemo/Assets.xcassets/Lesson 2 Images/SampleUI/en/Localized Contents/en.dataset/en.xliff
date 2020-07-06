@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="SampleUI/Base.lproj/Main.storyboard" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="O09-5k-7VP.normalTitle" xml:space="preserve">
+        <source>Sign in With Email</source>
+        <target>Sign in With Email</target>
+        <note>Class = "UIButton"; normalTitle = "Sign in With Email"; ObjectID = "O09-5k-7VP";</note>
+      </trans-unit>
+      <trans-unit id="Ptd-Nf-eOV.text" xml:space="preserve">
+        <source>Login or create account</source>
+        <target>Login or create account</target>
+        <note>Class = "UILabel"; text = "Login or create account"; ObjectID = "Ptd-Nf-eOV";</note>
+      </trans-unit>
+      <trans-unit id="TaK-cW-HJ4.normalTitle" xml:space="preserve">
+        <source>Sign in with Google</source>
+        <target>Sign in with Google</target>
+        <note>Class = "UIButton"; normalTitle = "Sign in with Google"; ObjectID = "TaK-cW-HJ4";</note>
+      </trans-unit>
+      <trans-unit id="UXb-Xn-LlL.normalTitle" xml:space="preserve">
+        <source>Sign in with Facebook</source>
+        <target>Sign in with Facebook</target>
+        <note>Class = "UIButton"; normalTitle = "Sign in with Facebook"; ObjectID = "UXb-Xn-LlL";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="SampleUI/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="11.5" build-num="11E608c"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>SampleUI</source>
+        <target>SampleUI</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
